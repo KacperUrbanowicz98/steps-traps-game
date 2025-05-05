@@ -11,7 +11,6 @@ It's a fun project for Python beginners to practice:
 - Loops (`while`)
 - Conditional statements (`if`, `break`)
 - Random number generation (`random`)
-- Lists
 - Basic I/O (`input`, `print`)
 
 ## 🕹️ How to Play
