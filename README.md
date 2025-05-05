@@ -1,6 +1,4 @@
-# steps-traps-game
-
-# 🎮 Escape the Traps
+# 🎮 Steps traps game
 
 Escape the Traps is a simple terminal-based Python game where the player tries to safely reach step 100 without stepping on randomly placed traps.
 
